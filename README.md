@@ -3,14 +3,14 @@
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
   <br>
-  <a style="" href="https://github.com/akashdeep023">
+  <a style="" href="https://github.com/meetsheth07">
   <img src="https://profile-counter.glitch.me/chat-app/count.svg" />
   </a>
 </p>
 
 ---
 
-<a style="" href="https://chat-application-jack.vercel.app/">
+
   
 ![Macbook-Air-Iphone-13](https://github.com/user-attachments/assets/24edbef0-083f-44d4-9717-3e659ecb404b)
 
@@ -51,7 +51,7 @@ Follow these steps to set up and run the project locally:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/akashdeep023/Chat_App.git
+    git clone https://github.com/meetsheth07/real-time-chat-app.git
     cd Chat_App
     ```
 
